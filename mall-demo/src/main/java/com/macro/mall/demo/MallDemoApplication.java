@@ -9,3 +9,4 @@ public class MallDemoApplication{
 		SpringApplication.run(MallDemoApplication.class, args);
 	}
 }
+// entry
